@@ -1,0 +1,9 @@
+# Ignore node_modules and package-lock.json
+node_modules/
+package-lock.json
+
+# Ignore build and dependencies
+dist/
+.vscode/
+.env
+.DS_Store
